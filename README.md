@@ -15,7 +15,7 @@ Currently focusing on improving my development skills.
 
 🛠️ Skills
 
- 💻 Frontend Development  
+💻 Frontend Development  
   HTML | CSS | JavaScript | React.js | Tailwind CSS
 
 🐍 Programming Languages  
@@ -26,8 +26,6 @@ Currently focusing on improving my development skills.
 
 ⚙️ Tools & Technologies  
   Git | GitHub | VS Code | Canva
-
-
 
 🚀 Projects
 
@@ -56,10 +54,9 @@ Beginner Friendly Open Source Projects
 
 📫 How to Reach Me
 
-💼 LinkedIn: www.linkedin.com/in/your-link
+💼 LinkedIn: https://www.linkedin.com/in/snigdha-roy-982a29272/
 🌐 Portfolio: Coming Soon...
-
 
 ⚡ Fun Fact
 
-I Dont like cofee
+I Dont like cofee...
