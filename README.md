@@ -51,7 +51,6 @@ Beginner Friendly Open Source Projects
 📫 How to Reach Me
 
 💼 LinkedIn: https://www.linkedin.com/in/snigdha-roy-982a29272/
-🌐 Portfolio: Coming Soon...
 
 ⚡ Fun Fact
 
