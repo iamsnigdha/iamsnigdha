@@ -14,13 +14,13 @@ Currently focusing on improving my development skills.
 🛠️ Skills:
 
 💻 Frontend Development  
-  HTML | CSS | JavaScript | React.js | Tailwind CSS
+  HTML | CSS | JavaScript | React.js |Node.js| Tailwind CSS
 
 🐍 Programming Languages  
   Python | Java
 
 📊 Data & Analytics  
-  Data Analytics | SQL |DBMS
+  Data Analytics |Exel | SQL |DBMS
 
 ⚙️ Tools & Technologies  
   Git | GitHub | VS Code | Canva
