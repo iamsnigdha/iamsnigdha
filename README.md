@@ -2,9 +2,9 @@
 
  I'm Snigdha Roy
  Final Year Information Technology Student  
-💻 Passionate about Web Development, Python & Data Analytics  
-🌱 Currently learning Full Stack Development  
-🚀 Interested in Software Development and Frontend Development
+ Passionate about Web Development, Python & Data Analytics  
+ Currently learning Full Stack Development  
+ Interested in Software Development and Frontend Development
 
 👩‍💻 About Me:
 I am an IT student who loves learning new technologies and building creative projects.  
@@ -23,7 +23,7 @@ Currently focusing on improving my development skills.
   Data Analytics |Exel | SQL |DBMS
 
 ⚙️ Tools & Technologies  
-  Git | GitHub | VS Code | Canva
+  Git | GitHub | VS Code | Canva |Gemini
 
 🚀 Projects:
 
