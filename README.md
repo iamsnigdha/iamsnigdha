@@ -7,9 +7,9 @@
  Interested in Software Development and Frontend Development
 
 👩‍💻 About Me:
-I am an IT student who loves learning new technologies and building creative projects.  
-I enjoy working on web development and frontend design .
-Currently focusing on improving my development skills.
+ I am an IT student who loves learning new technologies and building creative projects.  
+ I enjoy working on web development and frontend design .
+ Currently focusing on improving my development skills.
 
 🛠️ Skills:
 
