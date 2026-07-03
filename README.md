@@ -23,7 +23,7 @@
   Data Analytics |Exel | SQL |DBMS
 
 ⚙️ Tools & Technologies  
-  Git | GitHub | VS Code | Canva |Gemini
+  Git | GitHub | VS Code | Canva |Gemini|Chatgpt
 
 🚀 Projects:
 
