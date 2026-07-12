@@ -14,8 +14,8 @@
 🛠️ Skills:
 
 💻 Frontend Development  
-  HTML | CSS | JavaScript | React.js |Node.js| Tailwind CSS
-
+  HTML | CSS | JavaScript | React.js |Node.js| Tailwind CSS|Postman
+  
 🐍 Programming Languages  
   Python | Java
 
